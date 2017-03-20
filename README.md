@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/decompil3d/from2-error.svg?branch=master)](https://travis-ci.org/decompil3d/from2-error)
 
+[![NPM](https://nodei.co/npm/from2-error.png?downloads=true&stars=true)](https://nodei.co/npm/from2-error/)
+
 # from2-error
 Create a stream that immediately emits the specified Error. Sugary wrapper around from2.
 

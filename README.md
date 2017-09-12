@@ -3,6 +3,8 @@
 [![NPM](https://nodei.co/npm/from2-error.png?downloads=true&stars=true)](https://nodei.co/npm/from2-error/)
 
 # from2-error
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/decompil3d/from2-error.svg)](https://greenkeeper.io/)
 Create a stream that immediately emits the specified Error. Sugary wrapper around from2.
 
 Useful when you want to create a Stream for unit testing your error handlers.

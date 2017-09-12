@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/decompil3d/from2-error.svg?branch=master)](https://travis-ci.org/decompil3d/from2-error)
+[![Build Status](https://travis-ci.org/decompil3d/from2-error.svg?branch=master)](https://travis-ci.org/decompil3d/from2-error) [![Coverage Status](https://coveralls.io/repos/github/decompil3d/from2-error/badge.svg?branch=master)](https://coveralls.io/github/decompil3d/from2-error?branch=master)
 
 [![NPM](https://nodei.co/npm/from2-error.png?downloads=true&stars=true)](https://nodei.co/npm/from2-error/)
 

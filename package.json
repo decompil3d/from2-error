@@ -9,7 +9,7 @@
   },
   "scripts": {
     "lint": "eslint *.js",
-    "test-mocha": "nyc mocha --reporter spec test.js",
+    "test-mocha": "nyc --reporter lcov mocha --reporter spec test.js",
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
     "pretest": "npm run lint",
     "test": "npm run test-mocha"

@@ -1,6 +1,6 @@
 {
   "name": "from2-error",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create a stream that immediately emits the specified Error. Sugary wrapper around from2.",
   "main": "index.js",
   "repository": {
